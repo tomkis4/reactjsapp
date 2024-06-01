@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "supertest": "^7.0.0"
+  },
+  "devDependencies": {
+    "@babel/plugin-syntax-jsx": "^7.24.6",
+    "@babel/preset-react": "^7.24.6",
+    "@testing-library/jest-dom": "^6.4.5",
+    "@testing-library/react": "^15.0.7",
+    "jest": "^29.7.0"
+  }
+}

@@ -1,0 +1,37 @@
+.cat-facts-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .cat-facts-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+  }
+  
+  .cat-facts-header h1 {
+    margin: 0;
+  }
+  
+  .cat-facts-header button {
+    margin-left: 10px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    cursor: pointer;
+  }
+  
+  .cat-facts-header button:hover {
+    background-color: #0056b3;
+  }
+  
+  .cat-fact {
+    margin-top: 20px;
+    font-size: 18px;
+    line-height: 1.5;
+  }
+  

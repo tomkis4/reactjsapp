@@ -1,0 +1,43 @@
+.cats-images-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .cats-images-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+  }
+  
+  .cats-images-header h1 {
+    margin: 0;
+  }
+  
+  .cats-images-header button {
+    margin-left: 10px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    cursor: pointer;
+  }
+  
+  .cats-images-header button:hover {
+    background-color: #0056b3;
+  }
+  
+  .cat-image-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .cat-image {
+    width: 300px; /* Stała szerokość obrazu */
+    height: 300px; /* Stała wysokość obrazu */
+    margin-top: 20px;
+  }
+  
